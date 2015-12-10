@@ -1,0 +1,42 @@
+
+#----------------------------- Global Properties ----------------------------#
+
+/outputDir:bin/Windows
+/intermediateDir:obj/Windows
+/platform:Windows
+/config:
+/profile:Reach
+/compress:False
+
+#-------------------------------- References --------------------------------#
+
+
+#---------------------------------- Content ---------------------------------#
+
+#begin islands.jpg
+/copy:islands.jpg
+
+#begin Score.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:TextureFormat=Compressed
+/build:Score.spritefont
+
+#begin title.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:TextureFormat=Compressed
+/build:title.spritefont
+
+#begin winter.jpg
+/copy:winter.jpg
+
+#begin yeti.png
+/copy:yeti.png
+
+#begin bird.png
+/copy:bird.png
+
+#begin fly.png
+/copy:fly.png
+

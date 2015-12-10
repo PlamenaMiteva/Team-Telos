@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Plamena/documents/visual studio 2013/Projects/Monster Islands/Monster Islands/Content/Score.spritefont</SourceFile>
+  <SourceTime>2015-12-09T14:36:56.88652+02:00</SourceTime>
+  <DestFile>C:/Users/Plamena/documents/visual studio 2013/Projects/Monster Islands/Monster Islands/Content/bin/Windows/Score.xnb</DestFile>
+  <DestTime>2015-12-09T14:57:58.1866623+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2015-11-27T12:12:22+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2015-11-27T12:12:22+02:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

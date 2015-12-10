@@ -1,0 +1,34 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Monster Islands\Monster Islands\bin\Windows\Debug\Content\islands.jpg
+c:\users\plamena\documents\visual studio 2013\Projects\Monster Islands\Monster Islands\bin\Windows\Debug\Content\islands.xnb
+c:\users\plamena\documents\visual studio 2013\Projects\Monster Islands\Monster Islands\bin\Windows\Debug\Content\Score.xnb
+c:\users\plamena\documents\visual studio 2013\Projects\Monster Islands\Monster Islands\bin\Windows\Debug\Content\title.xnb
+c:\users\plamena\documents\visual studio 2013\Projects\Monster Islands\Monster Islands\bin\Windows\Debug\Monster Islands.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Monster Islands\Monster Islands\bin\Windows\Debug\Monster Islands.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Monster Islands\Monster Islands\bin\Windows\Debug\MonoGame.Framework.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Monster Islands\Monster Islands\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Monster Islands\Monster Islands\bin\Windows\Debug\SharpDX.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Monster Islands\Monster Islands\bin\Windows\Debug\SharpDX.XAudio2.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Monster Islands\Monster Islands\bin\Windows\Debug\SharpDX.DXGI.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Monster Islands\Monster Islands\bin\Windows\Debug\SharpDX.Direct3D11.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Monster Islands\Monster Islands\bin\Windows\Debug\SharpDX.Direct2D1.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Monster Islands\Monster Islands\bin\Windows\Debug\SharpDX.XInput.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Monster Islands\Monster Islands\bin\Windows\Debug\SharpDX.RawInput.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Monster Islands\Monster Islands\bin\Windows\Debug\SharpDX.Direct3D9.dll
+c:\users\plamena\documents\visual studio 2013\Projects\Monster Islands\Monster Islands\bin\Windows\Debug\MonoGame.Framework.xml
+c:\users\plamena\documents\visual studio 2013\Projects\Monster Islands\Monster Islands\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+c:\users\plamena\documents\visual studio 2013\Projects\Monster Islands\Monster Islands\bin\Windows\Debug\SharpDX.xml
+c:\users\plamena\documents\visual studio 2013\Projects\Monster Islands\Monster Islands\bin\Windows\Debug\SharpDX.XAudio2.xml
+c:\users\plamena\documents\visual studio 2013\Projects\Monster Islands\Monster Islands\bin\Windows\Debug\SharpDX.DXGI.xml
+c:\users\plamena\documents\visual studio 2013\Projects\Monster Islands\Monster Islands\bin\Windows\Debug\SharpDX.Direct3D11.xml
+c:\users\plamena\documents\visual studio 2013\Projects\Monster Islands\Monster Islands\bin\Windows\Debug\SharpDX.Direct2D1.xml
+c:\users\plamena\documents\visual studio 2013\Projects\Monster Islands\Monster Islands\bin\Windows\Debug\SharpDX.XInput.xml
+c:\users\plamena\documents\visual studio 2013\Projects\Monster Islands\Monster Islands\bin\Windows\Debug\SharpDX.RawInput.xml
+c:\users\plamena\documents\visual studio 2013\Projects\Monster Islands\Monster Islands\bin\Windows\Debug\SharpDX.Direct3D9.xml
+c:\users\plamena\documents\visual studio 2013\Projects\Monster Islands\Monster Islands\obj\x86\Debug\Monster Islands.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Monster Islands\Monster Islands\obj\x86\Debug\Monster Islands.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\Monster Islands\Monster Islands\obj\x86\Debug\Monster Islands.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\documents\visual studio 2013\Projects\Monster Islands\Monster Islands\bin\Windows\Debug\Content\island.jpg
+C:\Users\Plamena\documents\visual studio 2013\Projects\Monster Islands\Monster Islands\bin\Windows\Debug\Content\winter.jpg
+C:\Users\Plamena\documents\visual studio 2013\Projects\Monster Islands\Monster Islands\bin\Windows\Debug\Content\yeti.png
+C:\Users\Plamena\documents\visual studio 2013\Projects\Monster Islands\Monster Islands\bin\Windows\Debug\Content\bird.png
+C:\Users\Plamena\documents\visual studio 2013\Projects\Monster Islands\Monster Islands\bin\Windows\Debug\Content\fly.png
